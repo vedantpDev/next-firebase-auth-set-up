@@ -11,9 +11,11 @@
   "dependencies": {
     "@babel/runtime": "^7.21.0",
     "@next/font": "13.3.0",
+    "firebase": "^9.9.1",
+    "firebase-admin": "^11.6.0",
     "next": "13.3.0",
     "next-absolute-url": "^1.2.2",
-    "next-firebase-auth": "^0.15.0",
+    "next-firebase-auth": "^1.0.0-canary.17",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
